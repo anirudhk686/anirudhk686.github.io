@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Home"
+    url: #
+    
   - title: "Projects"
     url: /Projects/  
     
@@ -9,4 +12,5 @@ main:
   - title: "Resume"
     url: /Resume/
     
-
+  - title: "Contact"
+    url: /Contact/
