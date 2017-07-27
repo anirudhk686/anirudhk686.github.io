@@ -1,12 +1,11 @@
 ---
 permalink: /Contact/
-title: "Contact"
+title: "Email:"
 excerpt: "contact"
 author_profile: true
 redirect_from: 
 ---
 
-Email:
-
 anirudhk686@gmail.com
-f2015626@gmail.com
+
+f2015626@pilani.bits-pilani.ac.in
