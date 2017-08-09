@@ -19,5 +19,7 @@ redirect_from:
 * Detailed note of methodology followed is described in this [**_Project report_**](https://github.com/anirudhk686/weather_data_analysis/blob/master/Final_report.pdf).<br>
 [[_Source code_]](https://github.com/anirudhk686/weather_data_analysis)
 
-## SMS
+## Stock market simulation - _A trading simulator_ <br>(_Dec 2016 - Feb 2017_)
+* This project was made for an event in APOGEE,our technical fest.
+
 
