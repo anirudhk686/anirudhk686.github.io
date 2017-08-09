@@ -10,7 +10,7 @@ redirect_from:
 * I have used the VGG-16 Net architecture and this has been implemented using keras library in python.
 * Implementation done based on the approach suggested in this [paper](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf).
 * Detailed note of methodology followed is presented in the [**_Project blog_**](https://anirudhk686.github.io/facial_recognition/).<br>
-[**Source code**](https://github.com/anirudhk686/facial_recognition)
+[_Source code_](https://github.com/anirudhk686/facial_recognition)
 
 ## dwdwd
 
