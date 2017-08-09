@@ -3,6 +3,7 @@ permalink: /Projects/
 title: ""
 excerpt: ""
 author_profile: true
+fullwidth: true
 redirect_from: 
 ---
 ## Facial recognition system using convolutional neural network <br>(_July 2017_)
