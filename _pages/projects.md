@@ -10,7 +10,7 @@ redirect_from:
 * This project was part of my internship at [National Centre for Antarctic and Ocean Research](http://www.ncaor.gov.in/) , India. 
 * I have used the VGG-16 Net architecture and this has been implemented using keras library in python.
 * Implementation done based on the approach suggested in this [paper](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf).
-* Detailed note of methodology followed is presented in the [**_Project blog_**](https://anirudhk686.github.io/facial_recognition/).<br>`python``keras`
+* Detailed note of methodology followed is presented in the [**_Project blog_**](https://anirudhk686.github.io/facial_recognition/).<br>`python` `keras`<br>
 [[_Source code_]](https://github.com/anirudhk686/facial_recognition)
 
 ## Antarctic weather data analysis using ARIMA model <br>(_June 2017_)
