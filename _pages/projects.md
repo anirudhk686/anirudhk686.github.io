@@ -7,7 +7,7 @@ fullwidth: true
 redirect_from: 
 ---
 ## Facial recognition system using convolutional neural network <br>(_July 2017_)
-`python` `keras` `VGG-16 Net` `MatConvNet`<br>
+`python` `open-cv` `keras` `VGG-16 Net` `MatConvNet`<br>
 * This project was part of my internship at [National Centre for Antarctic and Ocean Research](http://www.ncaor.gov.in/) , India. 
 * I have used the VGG-16 Net architecture and this has been implemented using keras library in python.
 * Implementation done based on the approach suggested in this [paper](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf).
