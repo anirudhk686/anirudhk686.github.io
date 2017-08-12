@@ -10,7 +10,7 @@ main:
     url: /Blog Posts/
     
   - title: "Resume"
-    url: files/Anirudh_resume.pdf
+    url: /files/Anirudh_resume.pdf
     
   - title: "Contact"
     url: /Contact/
