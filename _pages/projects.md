@@ -25,8 +25,8 @@ redirect_from:
 `python` `django` `ajax`<br>
 * This project was made for an event in APOGEE,our technical fest. More than 300 participants from all over the country participated in this event.
 * This project was used as trading platform in an event which was simulation of the stock market.Participants could register and trade with their mobile.
-* Server was hostel on college LAN.The event had four rounds and stock prices would change as per the trading in previous round.
-* Videoes were shown in between the rounds which simulated an event that would influence the market.<br>
+* Server was hosted on college LAN.The event had four rounds and stock prices would change as per the trading in previous round.
+* Videos were shown in between the rounds which simulated an event that would influence the market.<br>
 [[_Source code_]](https://github.com/anirudhk686/SMS_2017)
 
 
