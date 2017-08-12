@@ -11,7 +11,8 @@
           "{{ s.image }}"
         {% else %}
           "{{ s.image | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}>
+        {% endif %}
+        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
