@@ -15,7 +15,6 @@ Since childhood, Nature has always been my deep source of fascination and inspir
 
 This quote by Dennis Hassabis aptly describes my above-mentioned passion. In order to pursue this passion, I have aspired to study and build machines which emulate the working of the human brain.  This eventually led me to pursue Computer Science as my major.  From the day I listened to Demis's talk, I have been learning about how humans have approached to solve this mystery of nature. I ventured into deep learning a year ago and believe it to be the key to unlock the mind. I am extremely passionate learning about _CNN, RNN, and Reinforcement learning_. The generality of these techniques is what that impresses me the most.
 
-Above all, I am firmly of the belief that it is imperative to study the mysterious ways of Nature to be able to construct an intelligent machine which closely resembles and further improvises on the human brain.<br>
 Armed with these ideas and beliefs, I aspire to be a part of this great quest of mankind to _“solve” intelligence_ and assiduously use it to serve humanity.
 
 
