@@ -13,7 +13,7 @@ Since childhood, Nature has always been my deep source of fascination and inspir
 > **_" Solve intelligence, use it to solve everything else "_** <br>
 >  _-  Demis Hassabis, CEO, Deepmind_<br>
 
-This quote by Dennis Hassabis aptly describes my above-mentioned passion. In order to pursue this passion, I have aspired to study and build machines which emulate the working of the human brain.  This eventually led me to pursue Computer Science as my major.  From the day I listened to Demis's talk, I have been learning about how humans have approached to solve this mystery of nature. I ventured into deep learning a year ago and believe it to be the key to unlock the mind. I am extremely passionate learning about _CNN, RNN, and Reinforcement learning_. The generality of these techniques is what that impresses me the most.
+This quote by Demis Hassabis aptly describes my above-mentioned passion. In order to pursue this passion, I have aspired to study and build machines which emulate the working of the human brain.  This eventually led me to pursue Computer Science as my major.  From the day I listened to Demis's talk, I have been learning about how humans have approached to solve this mystery of nature. I ventured into deep learning a year ago and believe it to be the key to unlock the mind. I am extremely passionate learning about _CNN, RNN, and Reinforcement learning_. The generality of these techniques is what that impresses me the most.
 
 Armed with these ideas and beliefs, I aspire to be a part of this great quest of mankind to _“solve” intelligence_ and assiduously use it to serve humanity.
 
