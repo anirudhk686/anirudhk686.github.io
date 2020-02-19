@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @AKemtur
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ author:
   name             : "Anirudh Kemtur"
   avatar           : "p2.jpg"
   bio              : "A curious geek, aspiring to decipher the brain"
-  location         : "BITS Pilani,India"
+  location         : "Montreal,Canada"
   employer         :
   googlescholar    : 
   email            : "anirudhk686@gmail.com"
