@@ -8,7 +8,7 @@ redirect_from:
 ***
 Hola!
 
-I am a 5th-year undergraduate student, pursuing a five year dual degree programme of Bachelors in Computer Science and Masters in Economics at Birla Institute of Technology and Science, Pilani.
+I am a 5th-year undergraduate student, pursuing a five year dual degree programme in Computer Science and Economics at Birla Institute of Technology and Science, Pilani, India.
 
 I am currently interning at Mila - Quebec AI Institute, Montreal under the supervision of Prof. Karim Jerbi. I am intererested in understanding human cognition with the help with Artificial intelligence.
 
