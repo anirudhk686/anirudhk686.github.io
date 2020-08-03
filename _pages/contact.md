@@ -13,5 +13,5 @@ redirect_from:
  [anirudhk686@gmail.com](mailto:anirudhk686@gmail.com) <br>
  
 #### <span style="font-size: 2em;">Twitter :</span>
- .[@AKemtur](https://twitter.com/AKemtur)
+ [@AKemtur](https://twitter.com/AKemtur)
  
