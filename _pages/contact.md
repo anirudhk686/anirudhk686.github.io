@@ -8,7 +8,6 @@ redirect_from:
 
 {{ page.excerpt | markdownify }}
 
-Brother's name: Ashwin
 
 #### <span style="font-size: 2em;">Email :</span>
  [anirudha.kemtur@umontreal.ca](mailto:anirudha.kemtur@umontreal.ca)<br>
