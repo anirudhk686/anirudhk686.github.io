@@ -10,7 +10,7 @@ redirect_from:
 
 
 #### <span style="font-size: 2em;">Email :</span>
- [anirudha.kemtur@umontreal.ca](mailto:anirudha.kemtur@umontreal.ca)<br>
+ [anirudha.kemtur@gmail.com](mailto:anirudha.kemtur@gmail.com)<br>
  [f2015626p@alumni.bits-pilani.ac.in](mailto:f2015626p@alumni.bits-pilani.ac.in) <br>
 
  
